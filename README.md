@@ -1,7 +1,3 @@
-Voici un modèle de README pour ton projet d'analyse des couleurs d'image et de l'impact du daltonisme avec CUDA :
-
----
-
 # Analyse des couleurs d’une image et impact du daltonisme (CUDA)
 
 ## Objectif
@@ -77,7 +73,3 @@ L'objectif de ce projet est d'accélérer un code séquentiel utilisant CUDA pou
 ## Exécution
 
 Pour exécuter le programme, il suffit de lancer le script Python en fournissant l'image à analyser. Le programme traitera l'image et affichera les résultats, y compris les zones identifiées comme problématiques pour les daltoniens.
-
----
-
-N’hésite pas à ajuster ce README selon les détails spécifiques de ton projet et à y ajouter des instructions supplémentaires pour l'installation et l'exécution si nécessaire !
